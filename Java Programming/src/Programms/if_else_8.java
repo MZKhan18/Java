@@ -17,6 +17,6 @@ public class if_else_8 {
 			loss = sp - cp;
 			System.out.println("The seller has made profit of " + loss + " Rs.");
 		}
-
+sc.close();
 	}
 }
