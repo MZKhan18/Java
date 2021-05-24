@@ -14,5 +14,6 @@ public class basics_p {
 		b ^= a;
 		a ^= b;
 		System.out.println("After Swapping a=" + a + " b=" + b);
+		sc.close();
 	}
 }
