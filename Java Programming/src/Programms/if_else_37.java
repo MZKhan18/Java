@@ -35,5 +35,5 @@ public class if_else_37 {
        tbill= bill + surcharge;
        System.out.println("Total Electricity bill = "+tbill);
 	}
-
+sc.close();
 }
