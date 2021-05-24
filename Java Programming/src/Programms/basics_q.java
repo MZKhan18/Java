@@ -21,5 +21,6 @@ public class basics_q {
 		int n1 = n / 1;
 		int count = n1 + n2 + n5 + n10 + n50 + n100;
 		System.out.println("Smallest numbers of notes that will combine to give Rs. " + N + " = " + count);
+		sc.close();
 	}
 }
