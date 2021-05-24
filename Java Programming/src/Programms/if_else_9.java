@@ -27,6 +27,6 @@ public class if_else_9 {
 		} else {
 			System.out.println("ERROR: Enter only five digit numbers");
 		}
-
+sc.close();
 	}
 }
