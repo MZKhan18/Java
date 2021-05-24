@@ -22,6 +22,6 @@ public class basics_g {
 		} else {
 			System.out.println("Error:Enter five-digit numbers only");
 		}
-
+sc.close();
 	}
 }
