@@ -17,5 +17,6 @@ public class basics_c {
 		double percentage = (double) (sum / 5);
 		System.out.println("Aggregate marks = " + sum);
 		System.out.println("Percentage = " + percentage + "%");
+		sc.close();
 	}
 }
