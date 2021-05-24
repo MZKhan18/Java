@@ -17,6 +17,6 @@ public class if_else_1 {
 			totalCost = (double) (price * qty);
 			System.out.println("Total Expenses = " + totalCost);
 		}
-
+sc.close();
 	}
 }
