@@ -11,5 +11,6 @@ public class basics_a {
 		double hr = bsal * 0.2D;
 		double gsal = da + hr + bsal;
 		System.out.println("Gross Salary of Ramesh is : " + gsal);
+		sc.close();
 	}
 }
