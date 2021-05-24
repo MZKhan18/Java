@@ -20,6 +20,6 @@ public class if_else_16 {
 		} else {
 			System.out.println("The driver is not insured.");
 		}
-
+sc.close();
 	}
 }
