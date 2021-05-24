@@ -15,5 +15,6 @@ public class basics_m {
 		System.out.println("Sin(" + angle1 + ") = " + sinAngle);
 		System.out.println("Cos(" + angle1 + ") = " + cosAngle);
 		System.out.println("Tan(" + angle1 + ") = " + tanAngle);
+		sc.close();
 	}
 }
