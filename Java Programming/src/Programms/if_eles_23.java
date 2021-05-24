@@ -12,6 +12,7 @@ public class if_eles_23 {
 		} else {
 			System.out.println("It is an alphabet");
 		}
+		sc.close();
 
 	}
 }
