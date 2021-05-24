@@ -19,5 +19,6 @@ public class if_else_7 {
 
 		double gsal = bsal + da + hra;
 		System.out.println("Gross Salary = " + gsal);
+		sc.close();
 	}
 }
